@@ -1,0 +1,12 @@
+                              <div class="card-body">
+                                                <p class="text-center text-danger"><b><?php echo $message; ?></b></p>
+                                                <div class="form-group my-3">
+                                                      <input type="text" name="mobile" required class="form-control" placeholder="Mobile" >
+                                                </div>
+                                                <div class="form-group my-3">
+                                                      <input type="password" name="password" required class="form-control" placeholder="Password" >
+                                                </div>
+                                                <div class="form-group  mb-3 text-center">
+                                                      <button type="submit" class="btn btn-primary" name="login">লগিন করুন</button>
+                                                </div>
+                                          </div>
